@@ -4,13 +4,13 @@ Miguel Silva
 
      2231683
 
-**Linguagens de programação conhecidas:**
+**Known programming languages:**
 
 * C
 * Javascript
 * Python
 * ...
 ---
-> Metodologias de Desenvolvimento de Software @ 2024
+> Software Development Methodologies @ 2024
 
 ![Logo](https://eduportugal.eu/wp-content/uploads/2017/08/eduportugal_ipleiria_n.jpg)
